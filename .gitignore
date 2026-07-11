@@ -1,0 +1,15 @@
+# Ambiente virtual
+venv/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Arquivos temporários
+*.log
+
+# Configurações do VS Code
+.vscode/
+
+# Cache do pytest
+.pytest_cache/
